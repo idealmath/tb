@@ -1,5 +1,4 @@
 // MFCLibrary1.cpp : 定义 DLL 的初始化例程。
-//
 
 #include "stdafx.h"
 #include "MFCLibrary1.h"
@@ -47,8 +46,7 @@ CMFCLibrary1App::CMFCLibrary1App()
 	// 将所有重要的初始化放置在 InitInstance 中
 }
 
-
-// 唯一的一个 CMFCLibrary1App 对象
+111222
 
 CMFCLibrary1App theApp;
 
